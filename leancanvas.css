@@ -29,6 +29,22 @@ td h2 {
     color: grey;
 }    
 
+.subpart_head {
+    border-bottom: none;
+}    
+
+.subpart_tail {
+    border-top: none;
+}    
+
+.subpart_tail h1 {
+    font-size: 1em;
+}    
+
+.subpart_tail h2 {
+    font-size: 0.8em;
+}    
+
 #productmarketline {
     height: 20px;
     text-align: center;
