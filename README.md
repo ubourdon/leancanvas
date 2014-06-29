@@ -1,3 +1,12 @@
+LEAN CANVAS
+===========
+
+
+lean canvas html/css representation
+
+
+
+
 http://blog.xebia.fr/2013/07/29/se-lancer-dans-le-lean-startup-avec-le-lean-canvas-part-1/
 
 http://blog.xebia.fr/2013/12/04/se-lancer-dans-le-lean-startup-avec-le-lean-canvas-part-2/
